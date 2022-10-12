@@ -1,11 +1,11 @@
   integrationArtifactDeploy:
-    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    cpiApiServiceKeyCredentialsId: teched-eu01
     integrationFlowId: I050368-flow4
   integrationArtifactGetMplStatus:
-    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    cpiApiServiceKeyCredentialsId: teched-eu01
     integrationFlowId: I050368-flow4
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: techedServiceKeyCred
+    cpiApiServiceKeyCredentialsId: teched-eu01
     integrationFlowId: I050368-flow4
     integrationFlowName: I050368-flow4
     packageId: CICD
